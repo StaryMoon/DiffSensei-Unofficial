@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the original paper."
+title: "DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation"
+type: software
+authors:
+  - family-names: Liu
+    given-names: Minghao
+repository-code: "https://github.com/StaryMoon/DiffSensei-Unofficial"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "DiffSensei: Bridging Multi-Modal LLMs and Diffusion Models for Customized Manga Generation"
+  authors:
+  - family-names: Wu
+    given-names: Jianzong
+  - family-names: Tang
+    given-names: Chao
+  - family-names: Wang
+    given-names: Jingbo
+  - family-names: Zeng
+    given-names: Yanhong
+  - family-names: Li
+    given-names: Xiangtai
+  - family-names: Tong
+    given-names: Yunhai
+  conference: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  year: 2025
+  url: "https://openaccess.thecvf.com/content/CVPR2025/html/Wu_DiffSensei_Bridging_Multi-Modal_LLMs_and_Diffusion_Models_for_Customized_Manga_CVPR_2025_paper.html"
